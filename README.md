@@ -2,6 +2,11 @@
 
 Développement d’un outil d’aggrégation et de synthèse de veille technologique.
 
+- Récupération de sources RSS
+- Tri et classification par Mistral AI
+- Dashboard avec les résultats, + filtres, statistiques
+- Envoi d'un mail récapitulatif des meilleurs résultats
+
 ## Ressources
 
 - [Documentation Node-RED](https://nodered.org/docs/getting-started/local)
