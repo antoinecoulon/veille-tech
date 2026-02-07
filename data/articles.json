@@ -1,0 +1,1414 @@
+[
+  {},
+  {
+    "id": 1770507598952,
+    "title": "Datastar Observations",
+    "link": "https://dev.to/hlship/datastar-observations-3icg",
+    "source": "dev.to",
+    "date": "Sat, 07 Feb 2026 23:35:22 +0000",
+    "resume": "Datastar est une petite bibliothèque JavaScript pour le front-end qui déplace la logique et le rendu vers le serveur. Elle utilise des événements serveur pour mettre à jour le DOM et permet des mises à jour réactives sans complexe client.",
+    "categorie": "LES_DEUX",
+    "score": 4,
+    "tags": [
+      "JavaScript",
+      "Front-end",
+      "Architecture",
+      "React Native",
+      "Nuxt"
+    ],
+    "analyzedAt": "2026-02-07T23:39:58.951Z",
+    "lu": false
+  },
+  {
+    "id": 1770507611808,
+    "title": "Scaling enterprise AI: lessons in governance and operating models from IBM",
+    "link": "https://stackoverflow.blog/2026/01/29/scaling-enterprise-ai-lessons-in-governance-and-operating-models-from-ibm/",
+    "source": "StackOverflow Blog",
+    "date": "Thu, 29 Jan 2026 17:00:00 GMT",
+    "resume": "L'article discute des défis liés à l'implémentation et à l'échelle des projets d'IA en entreprise, en mettant l'accent sur les aspects humains et les modèles opérationnels plutôt que sur la technologie.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "AI",
+      "enterprise",
+      "governance",
+      "operating models"
+    ],
+    "analyzedAt": "2026-02-07T23:40:11.808Z",
+    "lu": false
+  },
+  {
+    "id": 1770507615544,
+    "title": "Are bugs and incidents inevitable with AI coding agents?",
+    "link": "https://stackoverflow.blog/2026/01/28/are-bugs-and-incidents-inevitable-with-ai-coding-agents/",
+    "source": "StackOverflow Blog",
+    "date": "Wed, 28 Jan 2026 15:00:00 GMT",
+    "resume": "L'article explore les types de bugs spécifiques générés par les agents de codage IA, leur fréquence et leur gravité, ainsi que leur impact sur les environnements de production.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "IA",
+      "développement",
+      "bugs",
+      "production"
+    ],
+    "analyzedAt": "2026-02-07T23:40:15.543Z",
+    "lu": false
+  },
+  {
+    "id": 1770507625510,
+    "title": "Is that allowed? Authentication and authorization in Model Context Protocol",
+    "link": "https://stackoverflow.blog/2026/01/21/is-that-allowed-authentication-and-authorization-in-model-context-protocol/",
+    "source": "StackOverflow Blog",
+    "date": "Wed, 21 Jan 2026 15:00:00 GMT",
+    "resume": "L'article explique comment sécuriser les serveurs MCP contre les accès non autorisés et comment fonctionne l'authentification des clients MCP vers les serveurs MCP.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "authentification",
+      "autorisation",
+      "sécurité",
+      "MCP"
+    ],
+    "analyzedAt": "2026-02-07T23:40:25.509Z",
+    "lu": false
+  },
+  {
+    "id": 1770507627939,
+    "title": "Don’t let your backend write checks your frontend can’t cache",
+    "link": "https://stackoverflow.blog/2026/01/20/don-t-let-your-backend-write-checks-your-frontend-can-t-cache/",
+    "source": "StackOverflow Blog",
+    "date": "Tue, 20 Jan 2026 08:40:00 GMT",
+    "resume": "L'article discute de l'importance de la cohérence entre le frontend et le backend, en particulier dans le contexte de l'utilisation de l'IA pour le développement. Il met en lumière les défis posés par les interfaces frontend universelles et l'importance de comprendre les deux aspects.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "frontend",
+      "backend",
+      "AI",
+      "développement"
+    ],
+    "analyzedAt": "2026-02-07T23:40:27.939Z",
+    "lu": false
+  },
+  {
+    "id": 1770507629750,
+    "title": "How AWS re:Invented the cloud",
+    "link": "https://stackoverflow.blog/2026/01/16/how-aws-re-invented-the-cloud/",
+    "source": "StackOverflow Blog",
+    "date": "Fri, 16 Jan 2026 08:40:00 GMT",
+    "resume": "Un entretien avec un ingénieur senior d'AWS sur l'histoire et l'évolution des services cloud d'AWS, notamment SQS et DynamoDB, ainsi que les perspectives sur les agents autonomes pour les développeurs.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "AWS",
+      "cloud",
+      "architecture",
+      "retour d'expérience"
+    ],
+    "analyzedAt": "2026-02-07T23:40:29.749Z",
+    "lu": false
+  },
+  {
+    "id": 1770507631738,
+    "title": "How Stack Overflow is taking on spam and bad actors",
+    "link": "https://stackoverflow.blog/2026/01/15/how-stack-overflow-is-taking-on-spam-and-bad-actors/",
+    "source": "StackOverflow Blog",
+    "date": "Thu, 15 Jan 2026 15:00:00 GMT",
+    "resume": "Stack Overflow améliore ses mécanismes de détection de spam en analysant les similarités avec les contenus récemment supprimés. Cette approche permet de mieux identifier et bloquer les mauvais acteurs.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "anti-spam",
+      "Stack Overflow",
+      "sécurité"
+    ],
+    "analyzedAt": "2026-02-07T23:40:31.737Z",
+    "lu": false
+  },
+  {
+    "id": 1770507633358,
+    "title": "Transforming enterprise workflows: How IBM is unlocking AI's potential",
+    "link": "https://stackoverflow.blog/2026/01/15/transforming-enterprise-workflows-how-ibm-is-unlocking-ai-s-potential/",
+    "source": "StackOverflow Blog",
+    "date": "Thu, 15 Jan 2026 08:40:00 GMT",
+    "resume": "L'article explique comment IBM a déployé et intégré des outils d'IA dans un environnement d'entreprise complexe, en transformant les flux de travail.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "AI",
+      "Enterprise",
+      "IBM",
+      "Workflow"
+    ],
+    "analyzedAt": "2026-02-07T23:40:33.358Z",
+    "lu": false
+  },
+  {
+    "id": 1770507637999,
+    "title": "8 lessons from tech leadership on scaling teams and AI",
+    "link": "https://stackoverflow.blog/2026/01/14/8-lessons-from-tech-leadership-on-scaling-teams-and-ai/",
+    "source": "StackOverflow Blog",
+    "date": "Wed, 14 Jan 2026 17:00:00 GMT",
+    "resume": "L'article partage 8 leçons tirées de l'expérience de Leaders of Code sur l'évolution des équipes et l'intégration de l'IA. Il offre des insights sur la gestion d'équipes techniques et l'adoption de nouvelles technologies.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "leadership",
+      "équipes",
+      "IA",
+      "scaling"
+    ],
+    "analyzedAt": "2026-02-07T23:40:37.999Z",
+    "lu": false
+  },
+  {
+    "id": 1770507643509,
+    "title": "Every ecommerce hero needs a Sidekick",
+    "link": "https://stackoverflow.blog/2026/01/09/every-ecommerce-hero-needs-a-sidekick/",
+    "source": "StackOverflow Blog",
+    "date": "Fri, 09 Jan 2026 08:40:00 GMT",
+    "resume": "Ryan et Vanessa Lee, VP de Shopify, discutent de l'impact de l'IA sur le e-commerce, notamment le développement de Sidekick, les défis de la création d'outils IA, et l'importance de la supervision humaine.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "IA",
+      "e-commerce",
+      "Shopify",
+      "Sidekick"
+    ],
+    "analyzedAt": "2026-02-07T23:40:43.509Z",
+    "lu": false
+  },
+  {
+    "id": 1770507653631,
+    "title": "The most dangerous shortcuts in software",
+    "link": "https://stackoverflow.blog/2026/01/02/the-most-dangerous-shortcuts-in-software/",
+    "source": "StackOverflow Blog",
+    "date": "Fri, 02 Jan 2026 08:40:00 GMT",
+    "resume": "L'article discute des dangers des raccourcis en développement logiciel, des pressions commerciales et de l'impact des outils d'IA sur la qualité du code. Il souligne l'importance de l'équilibre entre vitesse et durabilité pour maintenir l'intégrité du système.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "développement logiciel",
+      "bonnes pratiques",
+      "qualité du code"
+    ],
+    "analyzedAt": "2026-02-07T23:40:53.631Z",
+    "lu": false
+  },
+  {
+    "id": 1770507657631,
+    "title": "A look under the hood: How (and why) we built Question Assistant",
+    "link": "https://stackoverflow.blog/2025/12/31/a-look-under-the-hood-how-and-why-we-built-question-assistant/",
+    "source": "StackOverflow Blog",
+    "date": "Wed, 31 Dec 2025 15:07:27 GMT",
+    "resume": "L'article explique comment une équipe a construit un assistant de questions en combinant des techniques classiques de machine learning avec des solutions d'IA générative. Il détaille les défis rencontrés et les solutions techniques mises en place.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "machine learning",
+      "IA générative",
+      "retour d'expérience"
+    ],
+    "analyzedAt": "2026-02-07T23:40:57.631Z",
+    "lu": false
+  },
+  {
+    "id": 1770507669005,
+    "title": "Containers are easy—moving your legacy system off your VM is not",
+    "link": "https://stackoverflow.blog/2025/12/26/containers-are-easy-moving-your-legacy-system-off-your-vm-is-not/",
+    "source": "StackOverflow Blog",
+    "date": "Fri, 26 Dec 2025 08:40:00 GMT",
+    "resume": "L'article discute de l'intégration des machines virtuelles et de Kubernetes dans des environnements cloud-native, de la pertinence des VMs en entreprise et de l'utilisation de l'IA pour moderniser les systèmes legacy.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "cloud-native",
+      "Kubernetes",
+      "VMs",
+      "AI",
+      "modernisation"
+    ],
+    "analyzedAt": "2026-02-07T23:41:09.005Z",
+    "lu": false
+  },
+  {
+    "id": 1770507679834,
+    "title": "Making your code base better will make your code coverage worse",
+    "link": "https://stackoverflow.blog/2025/12/22/making-your-code-base-better-will-make-your-code-coverage-worse/",
+    "source": "StackOverflow Blog",
+    "date": "Mon, 22 Dec 2025 15:00:07 GMT",
+    "resume": "L'article explique comment maintenir un taux de couverture de code élevé peut influencer négativement les décisions de développement, en privilégiant la quantité sur la qualité.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "code coverage",
+      "best practices",
+      "software quality"
+    ],
+    "analyzedAt": "2026-02-07T23:41:19.832Z",
+    "lu": false
+  },
+  {
+    "id": 1770507684075,
+    "title": "Why AI Agents Make Different Decisions When They Think It's Real",
+    "link": "https://dev.to/vishalmysore/why-ai-agents-make-different-decisions-when-they-think-its-real-69l",
+    "source": "dev.to",
+    "date": "Sat, 07 Feb 2026 23:18:14 +0000",
+    "resume": "Un article expliquant le phénomène de 'judgment-action gap' chez les IA, où leur comportement change selon qu'elles perçoivent leurs décisions comme hypothétiques ou réelles. Une étude récente montre que 47,6% des décisions des modèles de langage s'inversent lors du passage de la théorie à l'action.",
+    "categorie": "PRO",
+    "score": 4,
+    "tags": [
+      "IA",
+      "machine learning",
+      "recherche",
+      "éthique"
+    ],
+    "analyzedAt": "2026-02-07T23:41:24.075Z",
+    "lu": false
+  },
+  {
+    "id": 1770507686052,
+    "title": "How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI",
+    "link": "https://dev.to/dennis_ogaka_2d188ab5bef7/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-2imf",
+    "source": "dev.to",
+    "date": "Sat, 07 Feb 2026 23:10:47 +0000",
+    "resume": "L'article explique comment les analystes utilisent Power BI pour transformer des données brutes et désorganisées en tableaux de bord exploitables. Il met l'accent sur l'importance de comprendre les besoins métiers avant de traiter les données et sur l'utilisation de Power Query pour nettoyer et structurer les données.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "Power BI",
+      "Data Analysis",
+      "Data Cleaning"
+    ],
+    "analyzedAt": "2026-02-07T23:41:26.052Z",
+    "lu": false
+  },
+  {
+    "id": 1770507688196,
+    "title": "I shipped a fix. The PR got closed. And that’s exactly how open source works sometimes 🙂",
+    "link": "https://dev.to/yusufhansck/i-shipped-a-fix-the-pr-got-closed-and-thats-exactly-how-open-source-works-sometimes-279e",
+    "source": "dev.to",
+    "date": "Sat, 07 Feb 2026 22:56:27 +0000",
+    "resume": "Un développeur a contribué à un projet open source en corrigeant un problème de production, ajoutant des tests et en gérant les cas limites. Sa PR a été fermée non pas à cause de la qualité du code, mais en raison de décisions produit et croissance.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "open source",
+      "contribution",
+      "décisions produit",
+      "retour d'expérience"
+    ],
+    "analyzedAt": "2026-02-07T23:41:28.195Z",
+    "lu": false
+  },
+  {
+    "id": 1770507690062,
+    "title": "[AWS] Parallel execution of tasks using Kiro's custom subagents [Kiro]",
+    "link": "https://dev.to/aws-builders/aws-parallel-execution-of-tasks-using-kiros-custom-subagents-kiro-n77",
+    "source": "dev.to",
+    "date": "Sat, 07 Feb 2026 22:54:51 +0000",
+    "resume": "L'article explique l'implémentation des Custom Subagents dans l'IDE Kiro, permettant l'exécution parallèle de tâches définies par l'utilisateur. Il met en avant les avantages et les défis de cette fonctionnalité, comme l'automatisation des tâches répétitives et la nécessité de définir précisément les tâches pour éviter des résultats inattendus.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "AWS",
+      "Automatisation",
+      "DevOps",
+      "Kiro",
+      "Subagents"
+    ],
+    "analyzedAt": "2026-02-07T23:41:30.062Z",
+    "lu": false
+  },
+  {
+    "id": 1770507692024,
+    "title": "x402 V2 Just Dropped: 5 Security Changes Every AI Agent Builder Needs to Know",
+    "link": "https://dev.to/mkmkkkkk/x402-v2-just-dropped-5-security-changes-every-ai-agent-builder-needs-to-know-5apf",
+    "source": "dev.to",
+    "date": "Sat, 07 Feb 2026 22:44:46 +0000",
+    "resume": "L'article présente les 5 changements majeurs de la version 2 du protocole x402, un protocole de paiement natif HTTP utilisé par les agents IA pour payer des appels API. Il détaille les nouvelles fonctionnalités de sécurité et les implications pour les développeurs.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "sécurité",
+      "protocole de paiement",
+      "IA",
+      "x402",
+      "architecture"
+    ],
+    "analyzedAt": "2026-02-07T23:41:32.024Z",
+    "lu": false
+  },
+  {
+    "id": 1770507693788,
+    "title": "I built a cryptographic memory layer for humans in Python tags: python, opensource, security, blockchain",
+    "link": "https://dev.to/diaryvault/i-built-a-cryptographic-memory-layer-for-humans-in-python-tags-python-opensource-security-20jo",
+    "source": "dev.to",
+    "date": "Sat, 07 Feb 2026 22:43:51 +0000",
+    "resume": "L'article présente DiaryVault, un projet open-source en Python qui crée des mémoires cryptées et vérifiables. Il utilise des techniques de hachage et de chiffrement pour stocker des notes de manière sécurisée, avec une architecture modulaire et des options de stockage décentralisé.",
+    "categorie": "PERSO",
+    "score": 3,
+    "tags": [
+      "python",
+      "opensource",
+      "security",
+      "blockchain"
+    ],
+    "analyzedAt": "2026-02-07T23:41:33.788Z",
+    "lu": false
+  },
+  {
+    "id": 1770507696067,
+    "title": "\"Var vs Let: The Big Confusion Explained!\"",
+    "link": "https://dev.to/burhan_chughtai/var-vs-let-the-big-confusion-explained-4hhk",
+    "source": "dev.to",
+    "date": "Sat, 07 Feb 2026 22:43:47 +0000",
+    "resume": "L'article explique la différence entre les mots-clés 'let' et 'var' en JavaScript, avec des exemples concrets dans des boucles, des fonctions et des closures. Il met en lumière le comportement des variables dans différents contextes.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "JavaScript",
+      "let",
+      "var",
+      "scope",
+      "closures"
+    ],
+    "analyzedAt": "2026-02-07T23:41:36.066Z",
+    "lu": false
+  },
+  {
+    "id": 1770507698099,
+    "title": "10. C# (Static Typing vs Dynamic Typing)",
+    "link": "https://dev.to/sabin_sim/10-c-static-typing-vs-dynamic-typing-ka1",
+    "source": "dev.to",
+    "date": "Sat, 07 Feb 2026 22:33:34 +0000",
+    "resume": "L'article explique la différence entre la typage statique et dynamique en C#, en se concentrant sur la compréhension des décisions du compilateur et leurs avantages/inconvénients. Il compare la flexibilité du typage dynamique (comme en Python) avec la rigidité du typage statique de C#.",
+    "categorie": "PERSO",
+    "score": 3,
+    "tags": [
+      "C#",
+      "typage statique",
+      "typage dynamique",
+      "apprentissage"
+    ],
+    "analyzedAt": "2026-02-07T23:41:38.098Z",
+    "lu": false
+  },
+  {
+    "id": 1770507701656,
+    "title": "I Built a Client Portal That Does Less on Purpose",
+    "link": "https://dev.to/jaymart/i-built-a-client-portal-that-does-less-on-purpose-30im",
+    "source": "dev.to",
+    "date": "Sat, 07 Feb 2026 22:28:55 +0000",
+    "resume": "Un freelance a créé un outil minimaliste pour partager des fichiers et des mises à jour avec ses clients, en réaction à des solutions trop complètes et coûteuses.",
+    "categorie": "PERSO",
+    "score": 3,
+    "tags": [
+      "freelance",
+      "outils",
+      "minimalisme",
+      "client portal"
+    ],
+    "analyzedAt": "2026-02-07T23:41:41.655Z",
+    "lu": false
+  },
+  {
+    "id": 1770507703764,
+    "title": "Continuous AI in practice: What developers can automate today with agentic CI",
+    "link": "https://github.blog/ai-and-ml/generative-ai/continuous-ai-in-practice-what-developers-can-automate-today-with-agentic-ci/",
+    "source": "GitHubBlog",
+    "date": "Thu, 05 Feb 2026 17:00:00 +0000",
+    "resume": "L'article explore le concept de Continuous AI, des agents intelligents qui peuvent automatiser des tâches nécessitant du raisonnement dans les dépôts de code. Il propose des exemples concrets d'automatisation pour les développeurs.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "CI/CD",
+      "IA",
+      "automatisation",
+      "GitHub"
+    ],
+    "analyzedAt": "2026-02-07T23:41:43.764Z",
+    "lu": false
+  },
+  {
+    "id": 1770507705894,
+    "title": "Pick your agent: Use Claude and Codex on Agent HQ ",
+    "link": "https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/",
+    "source": "GitHubBlog",
+    "date": "Wed, 04 Feb 2026 17:00:19 +0000",
+    "resume": "GitHub annonce la disponibilité publique de Claude et Codex sur Agent HQ pour les abonnés Copilot Pro+ et Enterprise. L'article explique comment commencer à utiliser ces nouveaux agents.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "IA",
+      "GitHub",
+      "Copilot",
+      "Développement"
+    ],
+    "analyzedAt": "2026-02-07T23:41:45.893Z",
+    "lu": false
+  },
+  {
+    "id": 1770507707747,
+    "title": "What the fastest-growing tools reveal about how software is being built",
+    "link": "https://github.blog/news-insights/octoverse/what-the-fastest-growing-tools-reveal-about-how-software-is-being-built/",
+    "source": "GitHubBlog",
+    "date": "Tue, 03 Feb 2026 17:00:00 +0000",
+    "resume": "L'article analyse les données d'Octoverse pour identifier les langages et outils en croissance rapide, ainsi que les projets qui suscitent le plus d'intérêt chez les développeurs.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "tendances",
+      "outils",
+      "développement"
+    ],
+    "analyzedAt": "2026-02-07T23:41:47.746Z",
+    "lu": false
+  },
+  {
+    "id": 1770507709904,
+    "title": "How to maximize GitHub Copilot’s agentic capabilities",
+    "link": "https://github.blog/ai-and-ml/github-copilot/how-to-maximize-github-copilots-agentic-capabilities/",
+    "source": "GitHubBlog",
+    "date": "Mon, 02 Feb 2026 17:00:00 +0000",
+    "resume": "Guide pour les ingénieurs seniors sur l'architecture et l'extension des applications réelles de GitHub Copilot.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "GitHub Copilot",
+      "architecture",
+      "productivité"
+    ],
+    "analyzedAt": "2026-02-07T23:41:49.902Z",
+    "lu": false
+  },
+  {
+    "id": 1770507711937,
+    "title": "From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner",
+    "link": "https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/",
+    "source": "GitHubBlog",
+    "date": "Wed, 28 Jan 2026 17:00:00 +0000",
+    "resume": "L'article explique comment GitHub a créé une animation ASCII accessible et compatible avec plusieurs terminaux pour l'interface en ligne de commande de Copilot, en utilisant des outils personnalisés, des rôles de couleur ANSI et des techniques d'ingénierie terminal avancées.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "GitHub",
+      "Copilot",
+      "CLI",
+      "ASCII",
+      "Terminal"
+    ],
+    "analyzedAt": "2026-02-07T23:41:51.936Z",
+    "lu": false
+  },
+  {
+    "id": 1770507713770,
+    "title": "Year recap and future goals for the GitHub Innovation Graph",
+    "link": "https://github.blog/news-insights/policy-news-and-insights/year-recap-and-future-goals-for-the-github-innovation-graph/",
+    "source": "GitHubBlog",
+    "date": "Wed, 28 Jan 2026 16:00:00 +0000",
+    "resume": "L'article fait un bilan des tendances et des insights sur l'activité de développement logiciel public sur GitHub, basé sur les données du GitHub Innovation Graph jusqu'au troisième trimestre 2025. Il présente également les objectifs futurs pour cet outil.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "GitHub",
+      "Innovation Graph",
+      "trends",
+      "développement logiciel"
+    ],
+    "analyzedAt": "2026-02-07T23:41:53.769Z",
+    "lu": false
+  },
+  {
+    "id": 1770507716201,
+    "title": "7 learnings from Anders Hejlsberg: The architect behind C# and TypeScript",
+    "link": "https://github.blog/developer-skills/programming-languages-and-frameworks/7-learnings-from-anders-hejlsberg-the-architect-behind-c-and-typescript/",
+    "source": "GitHubBlog",
+    "date": "Tue, 27 Jan 2026 17:17:28 +0000",
+    "resume": "Anders Hejlsberg, architecte de C# et TypeScript, partage ses leçons sur les boucles de rétroaction rapide, la scalabilité du logiciel, la visibilité open source et la construction d'outils durables.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "C#",
+      "TypeScript",
+      "Architecture",
+      "Open Source"
+    ],
+    "analyzedAt": "2026-02-07T23:41:56.200Z",
+    "lu": false
+  },
+  {
+    "id": 1770507719900,
+    "title": "Power agentic workflows in your terminal with GitHub Copilot CLI",
+    "link": "https://github.blog/ai-and-ml/github-copilot/power-agentic-workflows-in-your-terminal-with-github-copilot-cli/",
+    "source": "GitHubBlog",
+    "date": "Mon, 26 Jan 2026 18:54:49 +0000",
+    "resume": "L'article présente le GitHub Copilot CLI, un outil permettant d'interagir avec GitHub Copilot directement depuis le terminal. Il explore les fonctionnalités et les possibilités offertes par cette nouvelle interface.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "GitHub Copilot",
+      "CLI",
+      "Productivité",
+      "Développement"
+    ],
+    "analyzedAt": "2026-02-07T23:41:59.899Z",
+    "lu": false
+  },
+  {
+    "id": 1770507721772,
+    "title": "Build an agent into any app with the GitHub Copilot SDK",
+    "link": "https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/",
+    "source": "GitHubBlog",
+    "date": "Thu, 22 Jan 2026 15:01:44 +0000",
+    "resume": "L'article présente le GitHub Copilot SDK en version preview technique, permettant d'intégrer un agent programmable dans n'importe quelle application. Cet agent peut planifier, invoquer des outils, éditer des fichiers et exécuter des commandes.",
+    "categorie": "LES_DEUX",
+    "score": 4,
+    "tags": [
+      "GitHub Copilot",
+      "SDK",
+      "Intégration",
+      "Développement"
+    ],
+    "analyzedAt": "2026-02-07T23:42:01.771Z",
+    "lu": false
+  },
+  {
+    "id": 1770507723762,
+    "title": "Dragonfly v2.4.0 is released",
+    "link": "https://www.cncf.io/blog/2026/02/05/dragonfly-v2-4-0-is-released/",
+    "source": "CNCF Blog",
+    "date": "Fri, 06 Feb 2026 00:00:00 +0000",
+    "resume": "Dragonfly v2.4.0 a été publié avec de nouvelles fonctionnalités et améliorations, notamment un algorithme de planification conscient de la charge.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "Dragonfly",
+      "algorithme",
+      "planification"
+    ],
+    "analyzedAt": "2026-02-07T23:42:03.761Z",
+    "lu": false
+  },
+  {
+    "id": 1770507725664,
+    "title": "Conversing with Large Language Models using Dapr",
+    "link": "https://www.cncf.io/blog/2026/02/04/conversing-with-large-language-models-using-dapr/",
+    "source": "CNCF Blog",
+    "date": "Wed, 04 Feb 2026 20:51:48 +0000",
+    "resume": "L'article explore comment Dapr peut faciliter la communication entre des microservices et des modèles de langage, en abordant les défis des architectures distribuées.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "microservices",
+      "Dapr",
+      "architecture distribuée"
+    ],
+    "analyzedAt": "2026-02-07T23:42:05.663Z",
+    "lu": false
+  },
+  {
+    "id": 1770507731885,
+    "title": "OpenTelemetry Collector vs agent: How to choose the right telemetry approach",
+    "link": "https://www.cncf.io/blog/2026/02/02/opentelemetry-collector-vs-agent-how-to-choose-the-right-telemetry-approach/",
+    "source": "CNCF Blog",
+    "date": "Mon, 02 Feb 2026 12:00:00 +0000",
+    "resume": "L'article compare les approches de collecte de télémétrie avec OpenTelemetry Collector et Agent, en mettant en avant les avantages et inconvénients de chaque solution dans le contexte des architectures cloud-native.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "OpenTelemetry",
+      "Cloud-Native",
+      "Observabilité"
+    ],
+    "analyzedAt": "2026-02-07T23:42:11.885Z",
+    "lu": false
+  },
+  {
+    "id": 1770507735876,
+    "title": "Introducing Kthena: LLM inference for the cloud native era",
+    "link": "https://www.cncf.io/blog/2026/01/28/introducing-kthena-llm-inference-for-the-cloud-native-era/",
+    "source": "CNCF Blog",
+    "date": "Wed, 28 Jan 2026 15:00:00 +0000",
+    "resume": "Kthena est un nouveau projet open source pour l'inférence des grands modèles de langage (LLM) dans un environnement cloud natif. Il est conçu pour les développeurs et les ingénieurs MLOps, offrant des performances élevées et une orchestration avancée.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "cloud",
+      "LLM",
+      "MLOps",
+      "orchestration"
+    ],
+    "analyzedAt": "2026-02-07T23:42:15.876Z",
+    "lu": false
+  },
+  {
+    "id": 1770507737964,
+    "title": "Navigating the ingress-nginx archival: why now is the time to move to Cilium",
+    "link": "https://www.cncf.io/blog/2026/01/27/navigating-the-ingress-nginx-archival-why-now-is-the-time-to-move-to-cilium/",
+    "source": "CNCF Blog",
+    "date": "Tue, 27 Jan 2026 15:00:00 +0000",
+    "resume": "L'article explique pourquoi il est temps de migrer de ingress-nginx à Cilium pour le routage du trafic externe dans Kubernetes. Il détaille les avantages de Cilium et les raisons de cette transition.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "Kubernetes",
+      "ingress-nginx",
+      "Cilium",
+      "migration"
+    ],
+    "analyzedAt": "2026-02-07T23:42:17.964Z",
+    "lu": false
+  },
+  {
+    "id": 1770507742341,
+    "title": "The autonomous enterprise and the four pillars of platform control: 2026 forecast",
+    "link": "https://www.cncf.io/blog/2026/01/23/the-autonomous-enterprise-and-the-four-pillars-of-platform-control-2026-forecast/",
+    "source": "CNCF Blog",
+    "date": "Fri, 23 Jan 2026 12:03:00 +0000",
+    "resume": "L'article explore comment les entreprises autonomes pourraient utiliser des agents IA pour équilibrer la vitesse de développement et la gouvernance d'entreprise d'ici 2026, en s'appuyant sur les principes de DevOps et de l'ingénierie de plateforme.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "DevOps",
+      "IA",
+      "Plateforme",
+      "Gouvernance"
+    ],
+    "analyzedAt": "2026-02-07T23:42:22.340Z",
+    "lu": false
+  },
+  {
+    "id": 1770507774110,
+    "title": "Context Engineering for Coding Agents",
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html",
+    "source": "Martin Fowler's blog",
+    "date": "2026-02-05T07:36:00-08:00",
+    "resume": "L'article explore les innovations récentes en matière d'ingénierie de contexte pour les agents de codage, en se concentrant sur les fonctionnalités de configuration offertes par des outils comme Claude Code. Il met en lumière l'impact de ces avancées sur l'expérience des développeurs.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "IA",
+      "développement",
+      "outils",
+      "productivité"
+    ],
+    "analyzedAt": "2026-02-07T23:42:54.110Z",
+    "lu": false
+  },
+  {
+    "id": 1770507775892,
+    "title": "Fragments: February  4",
+    "link": "https://martinfowler.com/fragments/2026-02-04.html",
+    "source": "Martin Fowler's blog",
+    "date": "2026-02-04T09:56:00-08:00",
+    "resume": "L'article partage des fragments de réflexions d'un événement organisé par Thoughtworks, notamment sur l'utilisation de l'IA en développement logiciel. Il souligne l'importance de comprendre les systèmes créés et l'utilisation de l'IA comme outil de navigation plutôt que de confiance absolue.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "IA",
+      "Développement Logiciel",
+      "Retour d'expérience"
+    ],
+    "analyzedAt": "2026-02-07T23:42:55.891Z",
+    "lu": false
+  },
+  {
+    "id": 1770507779908,
+    "title": "Assessing internal quality while coding with an agent",
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html",
+    "source": "Martin Fowler's blog",
+    "date": "2026-01-27T10:50:00-05:00",
+    "resume": "Erik Doernenburg, maintainer de CCMenu, évalue l'impact d'un agent de codage sur la qualité interne du code en ajoutant une fonctionnalité et en analysant les résultats.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "IA",
+      "qualité de code",
+      "retour d'expérience"
+    ],
+    "analyzedAt": "2026-02-07T23:42:59.907Z",
+    "lu": false
+  },
+  {
+    "id": 1770507784363,
+    "title": "Conversation: LLMs and the what/how loop",
+    "link": "https://martinfowler.com/articles/convo-what-how.html",
+    "source": "Martin Fowler's blog",
+    "date": "2026-01-21T09:40:00-05:00",
+    "resume": "Un article sous forme de conversation entre experts sur l'utilisation des LLMs pour façonner les abstractions dans le développement logiciel. Ils discutent de la gestion du changement et de la charge cognitive, ainsi que du rôle des LLMs dans l'exploration du cycle 'what/how' en développement.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "LLMs",
+      "abstractions",
+      "TDD",
+      "développement logiciel"
+    ],
+    "analyzedAt": "2026-02-07T23:43:04.361Z",
+    "lu": false
+  },
+  {
+    "id": 1770507786145,
+    "title": "Stop Picking Sides: Manage the Tension Between Adaptation and                Optimization",
+    "link": "https://martinfowler.com/articles/stop-picking-sides.html",
+    "source": "Martin Fowler's blog",
+    "date": "2026-01-13T14:59:00+00:00",
+    "resume": "L'article discute de l'importance d'équilibrer adaptation et optimisation dans les équipes, en proposant deux modes de fonctionnement : explorer (adaptation) et exploiter (optimisation). Il souligne la nécessité de gérer la tension entre ces deux approches en fonction de l'incertitude, du risque, du coût de changement et d'un seuil de preuve.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "architecture",
+      "équipes",
+      "optimisation",
+      "adaptation"
+    ],
+    "analyzedAt": "2026-02-07T23:43:06.145Z",
+    "lu": false
+  },
+  {
+    "id": 1770507790243,
+    "title": "Fragments: January  8",
+    "link": "https://martinfowler.com/fragments/2026-01-08.html",
+    "source": "Martin Fowler's blog",
+    "date": "2026-01-08T08:29:00-05:00",
+    "resume": "L'article présente un rapport d'Anthropic sur l'impact de l'IA sur leur pratique de développement logiciel, avec des gains de productivité significatifs. Il met également en lumière un cas d'utilisation concret par Obie Fernandez, qui a développé un système de distillation de connaissances en utilisant Claude, prêt pour la production.",
+    "categorie": "LES_DEUX",
+    "score": 4,
+    "tags": [
+      "IA",
+      "développement logiciel",
+      "productivité",
+      "retour d'expérience"
+    ],
+    "analyzedAt": "2026-02-07T23:43:10.243Z",
+    "lu": false
+  },
+  {
+    "id": 1770507792136,
+    "title": "Fragments: December 16",
+    "link": "https://martinfowler.com/fragments/2025-12-16.html",
+    "source": "Martin Fowler's blog",
+    "date": "2025-12-16T10:14:00-05:00",
+    "resume": "Un guide illustré sur la modernisation des mainframes et une opinion sur les outils de revue de code pour le code généré par l'IA.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "mainframe",
+      "modernisation",
+      "IA",
+      "code review"
+    ],
+    "analyzedAt": "2026-02-07T23:43:12.135Z",
+    "lu": false
+  },
+  {
+    "id": 1770507798059,
+    "title": "Fragments Dec 4",
+    "link": "https://martinfowler.com/articles/20251204-frags.html",
+    "source": "Martin Fowler's blog",
+    "date": "2025-12-04T10:59:00-05:00",
+    "resume": "Un article résumant une étude de Carnegie Mellon sur l'impact de l'IA sur des projets open-source, montrant une dégradation de la qualité du code. Il aborde aussi l'histoire inspirante de Jim Highsmith utilisant l'IA pour lutter contre la maladie de Parkinson.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "IA",
+      "open-source",
+      "qualité du code",
+      "retour d'expérience"
+    ],
+    "analyzedAt": "2026-02-07T23:43:18.059Z",
+    "lu": false
+  },
+  {
+    "id": 1770507801955,
+    "title": "My Foreword to \"Frictionless\"",
+    "link": "https://martinfowler.com/articles/frictionless-foreword.html",
+    "source": "Martin Fowler's blog",
+    "date": "2025-11-18T12:19:00-05:00",
+    "resume": "Martin Fowler recommande le livre 'Frictionless' de Nicole Forsgren et Abi Noda sur la productivité logicielle, qu'il a trouvé suffisamment pertinent pour écrire une préface.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "productivité",
+      "livre",
+      "recommandation"
+    ],
+    "analyzedAt": "2026-02-07T23:43:21.954Z",
+    "lu": false
+  },
+  {
+    "id": 1770507804134,
+    "title": "The Learning Loop and LLMs",
+    "link": "https://martinfowler.com/articles/llm-learning-loop.html",
+    "source": "Martin Fowler's blog",
+    "date": "2025-11-04T09:14:00-05:00",
+    "resume": "L'article explore l'utilisation des modèles de langage (LLMs) comme outils utiles, mais met en garde contre leur utilisation pour contourner le processus d'apprentissage essentiel dans la pratique professionnelle.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "LLMs",
+      "apprentissage",
+      "bonnes pratiques"
+    ],
+    "analyzedAt": "2026-02-07T23:43:24.133Z",
+    "lu": false
+  },
+  {
+    "id": 1770507806191,
+    "title": "Fragments Nov 3",
+    "link": "https://martinfowler.com/articles/2025-11-03-frags.html",
+    "source": "Martin Fowler's blog",
+    "date": "2025-11-03T19:42:00-05:00",
+    "resume": "L'article discute des dangers de sécurité des navigateurs équipés de LLM et des opinions divergentes sur l'aide à la programmation par IA. Il souligne l'importance de l'expérience pour utiliser efficacement ces outils.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "IA",
+      "sécurité",
+      "développement",
+      "bonnes pratiques"
+    ],
+    "analyzedAt": "2026-02-07T23:43:26.190Z",
+    "lu": false
+  },
+  {
+    "id": 1770507808033,
+    "title": "Agentic AI and Security",
+    "link": "https://martinfowler.com/articles/agentic-ai-security.html",
+    "source": "Martin Fowler's blog",
+    "date": "2025-10-28T09:20:00-04:00",
+    "resume": "L'article explore les risques de sécurité des systèmes d'IA agentic, notamment à travers le concept de 'Lethal Trifecta'. Il propose des solutions pour atténuer ces risques en décomposant les tâches complexes.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "IA",
+      "sécurité",
+      "architecture"
+    ],
+    "analyzedAt": "2026-02-07T23:43:28.033Z",
+    "lu": false
+  },
+  {
+    "id": 1770507810432,
+    "title": "Fragments and Links",
+    "link": "https://martinfowler.com/articles/20251021-frags.html",
+    "source": "Martin Fowler's blog",
+    "date": "2025-10-21T11:02:00-04:00",
+    "resume": "Mathias Verraes discute de la relation entre les Domaines et les Contextes Délimités dans la conception pilotée par le domaine, soulignant que leur relation n'est pas toujours 1:1. Gary Marcus plaide pour des outils d'IA spécialisés plutôt que des solutions universelles. Matt Bracken raconte l'histoire de Direct File, un système de déclaration de revenus électronique qui a été annulé.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "Domain-Driven Design",
+      "IA",
+      "Gouvernement"
+    ],
+    "analyzedAt": "2026-02-07T23:43:30.431Z",
+    "lu": false
+  },
+  {
+    "id": 1770507812118,
+    "title": "Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl",
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html",
+    "source": "Martin Fowler's blog",
+    "date": "2025-10-15T08:33:00-04:00",
+    "resume": "L'article explore le concept de Spec-Driven Development (SDD) et analyse trois outils (Kiro, spec-kit, Tessl) qui se revendiquent comme des outils SDD. L'auteure tente de démêler ce que signifie le SDD actuellement.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "AI",
+      "Spec-Driven Development",
+      "Outils"
+    ],
+    "analyzedAt": "2026-02-07T23:43:32.118Z",
+    "lu": false
+  },
+  {
+    "id": 1770507814330,
+    "title": "Anchoring AI to a reference application",
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/anchoring-to-reference.html",
+    "source": "Martin Fowler's blog",
+    "date": "2025-09-25T12:57:00+03:00",
+    "resume": "L'article explore comment l'IA générative peut aider à maintenir à jour les modèles de service dans les organisations, en facilitant la mise à jour des services existants avec les dernières normes et pratiques de codage.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "IA générative",
+      "architecture",
+      "DevOps"
+    ],
+    "analyzedAt": "2026-02-07T23:43:34.329Z",
+    "lu": false
+  },
+  {
+    "id": 1770507815917,
+    "title": "To vibe or not to vibe",
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html",
+    "source": "Martin Fowler's blog",
+    "date": "2025-09-23T10:53:00+03:00",
+    "resume": "L'article explore le concept de 'vibe coding' et propose une évaluation des risques basée sur trois dimensions : probabilité, impact et détectabilité. Il s'agit d'une analyse pertinente pour comprendre quand utiliser cette approche.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "vibe coding",
+      "risk assessment",
+      "best practices"
+    ],
+    "analyzedAt": "2026-02-07T23:43:35.916Z",
+    "lu": false
+  },
+  {
+    "id": 1770507820072,
+    "title": "From Black Box to Blueprint",
+    "link": "https://martinfowler.com/articles/black-box-to-blueprint.html",
+    "source": "Martin Fowler's blog",
+    "date": "2025-08-28T07:24:00-04:00",
+    "resume": "L'article décrit une approche pour transformer des systèmes hérités opaques en architectures documentées grâce à l'ingénierie inverse assistée par l'IA. Une méthode multi-lens est utilisée pour reconstruire les spécifications fonctionnelles à partir d'éléments UI, de binaires et de lignées de données.",
+    "categorie": "PRO",
+    "score": 4,
+    "tags": [
+      "architecture",
+      "legacy systems",
+      "reverse engineering",
+      "AI",
+      "modernization"
+    ],
+    "analyzedAt": "2026-02-07T23:43:40.071Z",
+    "lu": false
+  },
+  {
+    "id": 1770507822422,
+    "title": "Research, Review, Rebuild: Intelligent Modernisation with MCP and Strategic Prompting",
+    "link": "https://martinfowler.com/articles/research-review-rebuild.html",
+    "source": "Martin Fowler's blog",
+    "date": "2025-08-27T10:15:00-04:00",
+    "resume": "L'article décrit la modernisation du système de gestion hospitalière open-source Bahmni, passant d'AngularJS à React + TypeScript et d'une API OpenMRS REST à une API HL7 FHIR. L'auteur utilise une méthodologie structurée de recherche, revue et reconstruction avec des outils comme Cline, Claude 3.5 Sonnet, et Atlassian MCP pour accélérer le processus.",
+    "categorie": "LES_DEUX",
+    "score": 4,
+    "tags": [
+      "React",
+      "TypeScript",
+      "Modernisation",
+      "API",
+      "Retour d'expérience"
+    ],
+    "analyzedAt": "2026-02-07T23:43:42.421Z",
+    "lu": false
+  },
+  {
+    "id": 1770507824057,
+    "title": "Building your own CLI Coding Agent with Pydantic-AI",
+    "link": "https://martinfowler.com/articles/build-own-coding-agent.html",
+    "source": "Martin Fowler's blog",
+    "date": "2025-08-27T07:50:00-04:00",
+    "resume": "L'article explique comment créer son propre agent de codage en ligne de commande (CLI) en utilisant des outils open source, plutôt que de dépendre d'outils commerciaux qui ne comprennent pas le contexte spécifique d'un projet.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "CLI",
+      "open source",
+      "coding agent",
+      "développement"
+    ],
+    "analyzedAt": "2026-02-07T23:43:44.056Z",
+    "lu": false
+  },
+  {
+    "id": 1770507825985,
+    "title": "Chatting with Unmesh about building language with LLMs",
+    "link": "https://martinfowler.com/articles/convo-llm-abstractions.html",
+    "source": "Martin Fowler's blog",
+    "date": "2025-08-26T09:26:00-04:00",
+    "resume": "Unmesh Joshi et l'auteur discutent de l'utilisation des LLMs pour développer des langages d'abstractions en programmation, en explorant comment ces modèles aident à la fois à la création et à l'application d'abstractions.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "LLM",
+      "abstractions",
+      "programmation"
+    ],
+    "analyzedAt": "2026-02-07T23:43:45.984Z",
+    "lu": false
+  },
+  {
+    "id": 1770507831869,
+    "title": "Impact Intelligence, addressing common objections",
+    "link": "https://martinfowler.com/articles/impact-intel.html#objections",
+    "source": "Martin Fowler's blog",
+    "date": "2025-08-12T09:02:00-04:00",
+    "resume": "Sriram Narayan aborde cinq objections courantes à l'impact intelligence, notamment le ralentissement, le manque d'agilité et de collaboration, et l'imprévisibilité de l'innovation.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "architecture",
+      "innovation",
+      "agilité"
+    ],
+    "analyzedAt": "2026-02-07T23:43:51.869Z",
+    "lu": false
+  },
+  {
+    "id": 1770507833232,
+    "title": "Team OKRs in Action",
+    "link": "https://martinfowler.com/articles/team-okr.html",
+    "source": "Martin Fowler's blog",
+    "date": "2025-08-13T10:16:00-04:00",
+    "resume": "L'article explique comment les OKRs (Objectives and Key Results) peuvent être utilisés de manière collaborative pour aligner les objectifs des équipes avec la stratégie globale de l'organisation, en évitant une approche top-down qui réduit l'engagement.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "OKRs",
+      "management",
+      "alignement stratégique"
+    ],
+    "analyzedAt": "2026-02-07T23:43:53.231Z",
+    "lu": false
+  },
+  {
+    "id": 1770507833883,
+    "title": "How Convera built fine-grained API authorization with Amazon Verified Permissions",
+    "link": "https://aws.amazon.com/blogs/architecture/how-convera-built-fine-grained-api-authorization-with-amazon-verified-permissions/",
+    "source": "AWS Architecture Blog",
+    "date": "Thu, 05 Feb 2026 21:21:54 +0000",
+    "resume": "Convera a utilisé Amazon Verified Permissions pour mettre en place un modèle d'autorisation granulaire pour leur plateforme API. L'article détaille leur approche et les bénéfices de cette solution.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "API",
+      "autorisation",
+      "Amazon Verified Permissions",
+      "architecture"
+    ],
+    "analyzedAt": "2026-02-07T23:43:53.882Z",
+    "lu": false
+  },
+  {
+    "id": 1770507836198,
+    "title": "Mastering millisecond latency and millions of events: The event-driven architecture behind the Amazon Key Suite",
+    "link": "https://aws.amazon.com/blogs/architecture/mastering-millisecond-latency-and-millions-of-events-the-event-driven-architecture-behind-the-amazon-key-suite/",
+    "source": "AWS Architecture Blog",
+    "date": "Wed, 04 Feb 2026 15:53:39 +0000",
+    "resume": "L'article explique comment l'équipe Amazon Key a modernisé son architecture en passant d'un système monolithique à une architecture événementielle résiliente avec Amazon EventBridge. Il détaille les défis techniques, l'approche d'implémentation et les schémas architecturaux pour améliorer la fiabilité et la scalabilité.",
+    "categorie": "PRO",
+    "score": 4,
+    "tags": [
+      "architecture",
+      "event-driven",
+      "Amazon EventBridge",
+      "scalabilité",
+      "retour d'expérience"
+    ],
+    "analyzedAt": "2026-02-07T23:43:56.197Z",
+    "lu": false
+  },
+  {
+    "id": 1770507838005,
+    "title": "Sovereign failover – Design for digital sovereignty using the AWS European Sovereign Cloud",
+    "link": "https://aws.amazon.com/blogs/architecture/sovereign-failover-design-for-digital-sovereignty-using-the-aws-european-sovereign-cloud/",
+    "source": "AWS Architecture Blog",
+    "date": "Fri, 30 Jan 2026 19:09:35 +0000",
+    "resume": "L'article explore les modèles d'architecture, les défis et les bonnes pratiques pour la mise en œuvre d'une bascule entre partitions dans le cloud AWS européen, en tenant compte des contraintes de connectivité réseau, d'authentification et de gouvernance.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "cloud",
+      "architecture",
+      "AWS",
+      "sécurité",
+      "résilience"
+    ],
+    "analyzedAt": "2026-02-07T23:43:58.005Z",
+    "lu": false
+  },
+  {
+    "id": 1770507840055,
+    "title": "Announcing the AWS Digital Sovereignty Well-Architected Lens",
+    "link": "https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/",
+    "source": "AWS Architecture Blog",
+    "date": "Fri, 30 Jan 2026 00:10:22 +0000",
+    "resume": "AWS annonce une nouvelle lens pour le Well-Architected Framework axée sur la souveraineté numérique, aidant les organisations à répondre aux exigences réglementaires tout en adoptant le cloud.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "AWS",
+      "cloud",
+      "souveraineté numérique",
+      "architecture"
+    ],
+    "analyzedAt": "2026-02-07T23:44:00.055Z",
+    "lu": false
+  },
+  {
+    "id": 1770507842018,
+    "title": "How Artera enhances prostate cancer diagnostics using AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/how-artera-enhances-prostate-cancer-diagnostics-using-aws/",
+    "source": "AWS Architecture Blog",
+    "date": "Thu, 29 Jan 2026 17:06:57 +0000",
+    "resume": "Artera utilise AWS pour développer et mettre à l'échelle un test de cancer de la prostate basé sur l'IA, réduisant le temps d'analyse et permettant des recommandations de traitement personnalisées.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "AWS",
+      "IA",
+      "santé",
+      "cloud"
+    ],
+    "analyzedAt": "2026-02-07T23:44:02.018Z",
+    "lu": false
+  },
+  {
+    "id": 1770507844186,
+    "title": "How Salesforce migrated from Cluster Autoscaler to Karpenter across their fleet of 1,000 EKS clusters",
+    "link": "https://aws.amazon.com/blogs/architecture/how-salesforce-migrated-from-cluster-autoscaler-to-karpenter-across-their-fleet-of-1000-eks-clusters/",
+    "source": "AWS Architecture Blog",
+    "date": "Mon, 12 Jan 2026 20:03:32 +0000",
+    "resume": "Salesforce a migré avec succès de Cluster Autoscaler à Karpenter sur plus de 1 000 clusters EKS, optimisant ainsi leur déploiement Kubernetes à grande échelle.",
+    "categorie": "PRO",
+    "score": 4,
+    "tags": [
+      "Kubernetes",
+      "Cloud",
+      "DevOps",
+      "Scaling"
+    ],
+    "analyzedAt": "2026-02-07T23:44:04.185Z",
+    "lu": false
+  },
+  {
+    "id": 1770507846434,
+    "title": "Architecting conversational observability for cloud applications",
+    "link": "https://aws.amazon.com/blogs/architecture/architecting-conversational-observability-for-cloud-applications/",
+    "source": "AWS Architecture Blog",
+    "date": "Thu, 11 Dec 2025 15:59:39 +0000",
+    "resume": "L'article explique comment construire un assistant de dépannage alimenté par l'IA générative pour Kubernetes, visant à accélérer le diagnostic et la résolution des problèmes de cluster, réduisant ainsi le temps moyen de récupération (MTTR) et le temps passé par les experts à identifier les causes profondes des problèmes dans les systèmes distribués complexes.",
+    "categorie": "PRO",
+    "score": 4,
+    "tags": [
+      "Kubernetes",
+      "IA générative",
+      "DevOps",
+      "Troubleshooting"
+    ],
+    "analyzedAt": "2026-02-07T23:44:06.433Z",
+    "lu": false
+  },
+  {
+    "id": 1770507848013,
+    "title": "How BASF’s Agriculture Solutions drives traceability and climate action by tokenizing cotton value chains using Amazon Managed Blockchain",
+    "link": "https://aws.amazon.com/blogs/architecture/how-basfs-agriculture-solutions-drives-traceability-and-climate-action-by-tokenizing-cotton-value-chains-using-amazon-managed-blockchain/",
+    "source": "AWS Architecture Blog",
+    "date": "Wed, 10 Dec 2025 17:41:52 +0000",
+    "resume": "BASF utilise Amazon Managed Blockchain pour tokeniser les chaînes de valeur du coton, améliorant ainsi la traçabilité et l'action climatique dans l'agriculture.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "blockchain",
+      "agriculture",
+      "traceability"
+    ],
+    "analyzedAt": "2026-02-07T23:44:08.012Z",
+    "lu": false
+  },
+  {
+    "id": 1770507852958,
+    "title": "Secure Amazon Elastic VMware Service (Amazon EVS) with AWS Network Firewall",
+    "link": "https://aws.amazon.com/blogs/architecture/secure-amazon-elastic-vmware-service-amazon-evs-with-aws-network-firewall/",
+    "source": "AWS Architecture Blog",
+    "date": "Wed, 26 Nov 2025 16:22:03 +0000",
+    "resume": "L'article explique comment sécuriser un environnement Amazon Elastic VMware Service (Amazon EVS) en utilisant AWS Network Firewall. Il détaille les étapes de mise en œuvre d'une architecture d'inspection centralisée à travers un cluster EVS, des VPCs, des centres de données locaux et Internet.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "AWS",
+      "Sécurité",
+      "Architecture Cloud"
+    ],
+    "analyzedAt": "2026-02-07T23:44:12.957Z",
+    "lu": false
+  },
+  {
+    "id": 1770507854377,
+    "title": "Building an AI gateway to Amazon Bedrock with Amazon API Gateway",
+    "link": "https://aws.amazon.com/blogs/architecture/building-an-ai-gateway-to-amazon-bedrock-with-amazon-api-gateway/",
+    "source": "AWS Architecture Blog",
+    "date": "Wed, 19 Nov 2025 23:33:41 +0000",
+    "resume": "L'article présente une architecture de référence pour gérer les implémentations d'Amazon Bedrock à l'aide d'Amazon API Gateway, permettant des contrôles d'autorisation, des quotas d'utilisation et un streaming de réponses en temps réel. Il détaille les étapes de déploiement et propose des améliorations potentielles pour une gouvernance de l'IA à grande échelle.",
+    "categorie": "PRO",
+    "score": 4,
+    "tags": [
+      "Amazon Bedrock",
+      "Amazon API Gateway",
+      "AI governance",
+      "architecture"
+    ],
+    "analyzedAt": "2026-02-07T23:44:14.377Z",
+    "lu": false
+  },
+  {
+    "id": 1770507856242,
+    "title": "Architecting for AI excellence: AWS launches three Well-Architected Lenses at re:Invent 2025",
+    "link": "https://aws.amazon.com/blogs/architecture/architecting-for-ai-excellence-aws-launches-three-well-architected-lenses-at-reinvent-2025/",
+    "source": "AWS Architecture Blog",
+    "date": "Wed, 19 Nov 2025 19:36:31 +0000",
+    "resume": "AWS a lancé trois nouvelles lentilles Well-Architected pour l'IA lors de re:Invent 2025 : Responsible AI, Machine Learning et Generative AI. Ces outils offrent des conseils complets pour les organisations à différents stades de leur parcours AI.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "AWS",
+      "AI",
+      "Architecture",
+      "Cloud"
+    ],
+    "analyzedAt": "2026-02-07T23:44:16.242Z",
+    "lu": false
+  },
+  {
+    "id": 1770507858483,
+    "title": "Announcing the updated AWS Well-Architected Generative AI Lens",
+    "link": "https://aws.amazon.com/blogs/architecture/announcing-the-updated-aws-well-architected-generative-ai-lens/",
+    "source": "AWS Architecture Blog",
+    "date": "Wed, 19 Nov 2025 19:36:28 +0000",
+    "resume": "AWS a mis à jour sa Well-Architected Generative AI Lens avec de nouvelles sections, meilleures pratiques, et des conseils pour des scénarios avancés. L'accent est mis sur l'IA responsable, l'architecture de données et les workflows agentiques.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "AWS",
+      "Architecture",
+      "IA",
+      "Best Practices"
+    ],
+    "analyzedAt": "2026-02-07T23:44:18.482Z",
+    "lu": false
+  },
+  {
+    "id": 1770507859967,
+    "title": "Announcing the updated AWS Well-Architected Machine Learning Lens",
+    "link": "https://aws.amazon.com/blogs/architecture/announcing-the-updated-aws-well-architected-machine-learning-lens/",
+    "source": "AWS Architecture Blog",
+    "date": "Wed, 19 Nov 2025 19:36:25 +0000",
+    "resume": "AWS a mis à jour sa Well-Architected Machine Learning Lens, intégrant les dernières capacités et bonnes pratiques pour les workloads ML sur AWS.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "AWS",
+      "Machine Learning",
+      "Architecture"
+    ],
+    "analyzedAt": "2026-02-07T23:44:19.966Z",
+    "lu": false
+  },
+  {
+    "id": 1770507862256,
+    "title": "Build priority-based message processing with Amazon MQ and AWS App Runner",
+    "link": "https://aws.amazon.com/blogs/architecture/build-priority-based-message-processing-with-amazon-mq-and-aws-app-runner/",
+    "source": "AWS Architecture Blog",
+    "date": "Tue, 18 Nov 2025 16:39:29 +0000",
+    "resume": "L'article explique comment construire un système de traitement de messages basé sur les priorités en utilisant Amazon MQ, DynamoDB et AWS App Runner. Il couvre l'implémentation de délais au niveau de l'application, la création d'interfaces utilisateur en temps réel avec WebSocket et la configuration de mécanismes de réessai à double couche.",
+    "categorie": "PRO",
+    "score": 4,
+    "tags": [
+      "AWS",
+      "Amazon MQ",
+      "DynamoDB",
+      "App Runner",
+      "WebSocket",
+      "architecture"
+    ],
+    "analyzedAt": "2026-02-07T23:44:22.256Z",
+    "lu": false
+  },
+  {
+    "id": 1770507864284,
+    "title": "Know before you go – AWS re:Invent 2025 guide to Well-Architected and Cloud Optimization sessions",
+    "link": "https://aws.amazon.com/blogs/architecture/know-before-you-go-aws-reinvent-2025-guide-to-well-architected-and-cloud-optimization-sessions/",
+    "source": "AWS Architecture Blog",
+    "date": "Fri, 14 Nov 2025 18:11:43 +0000",
+    "resume": "Guide pour préparer sa participation aux sessions Well-Architected et Cloud Optimization lors de la conférence AWS re:Invent 2025. L'article propose des conseils pour optimiser son temps et tirer le meilleur parti des sessions disponibles.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "AWS",
+      "Cloud",
+      "Architecture",
+      "Optimisation",
+      "Conférence"
+    ],
+    "analyzedAt": "2026-02-07T23:44:24.284Z",
+    "lu": false
+  },
+  {
+    "id": 1770507866513,
+    "title": "BASF Digital Farming builds a STAC-based solution on Amazon EKS",
+    "link": "https://aws.amazon.com/blogs/architecture/basf-digital-farming-builds-a-stac-based-solution-on-amazon-eks/",
+    "source": "AWS Architecture Blog",
+    "date": "Wed, 22 Oct 2025 16:21:09 +0000",
+    "resume": "BASF Digital Farming a développé une solution basée sur le Spatial Tiling API for Cloud-Optimized GeoTIFF (STAC) sur Amazon Elastic Kubernetes Service (EKS) pour optimiser les décisions agronomiques. L'article détaille leur architecture et leur expérience avec cette technologie.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "cloud",
+      "architecture",
+      "kubernetes",
+      "agriculture de précision"
+    ],
+    "analyzedAt": "2026-02-07T23:44:26.512Z",
+    "lu": false
+  },
+  {
+    "id": 1770507868245,
+    "title": "Modernization of real-time payment orchestration on AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/modernization-of-real-time-payment-orchestration-on-aws/",
+    "source": "AWS Architecture Blog",
+    "date": "Wed, 01 Oct 2025 23:34:00 +0000",
+    "resume": "L'article traite de la modernisation de l'orchestration des paiements en temps réel sur AWS, dans un contexte de croissance rapide du marché mondial des paiements en temps réel et des paiements mobiles.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "AWS",
+      "paiements en temps réel",
+      "orchestration",
+      "cloud"
+    ],
+    "analyzedAt": "2026-02-07T23:44:28.244Z",
+    "lu": false
+  },
+  {
+    "id": 1770507870019,
+    "title": "Build resilient generative AI agents",
+    "link": "https://aws.amazon.com/blogs/architecture/build-resilient-generative-ai-agents/",
+    "source": "AWS Architecture Blog",
+    "date": "Tue, 30 Sep 2025 15:11:51 +0000",
+    "resume": "L'article explore les défis de la résilience des agents IA générative en production, en soulignant les différences avec les logiciels traditionnels. Il propose un cadre pour analyser les risques spécifiques à ces agents.",
+    "categorie": "PRO",
+    "score": 4,
+    "tags": [
+      "IA",
+      "résilience",
+      "architecture",
+      "production"
+    ],
+    "analyzedAt": "2026-02-07T23:44:30.019Z",
+    "lu": false
+  },
+  {
+    "id": 1770507872246,
+    "title": "A scalable, elastic database and search solution for 1B+ vectors built on LanceDB and Amazon S3",
+    "link": "https://aws.amazon.com/blogs/architecture/a-scalable-elastic-database-and-search-solution-for-1b-vectors-built-on-lancedb-and-amazon-s3/",
+    "source": "AWS Architecture Blog",
+    "date": "Mon, 22 Sep 2025 17:15:44 +0000",
+    "resume": "Metagenomi a mis en place une solution de base de données et de recherche évolutive pour plus d'un milliard de vecteurs protéiques en utilisant LanceDB et Amazon S3. La solution repose sur une architecture serverless combinant AWS Lambda, AWS Step Functions et Amazon S3 pour des recherches de voisins les plus proches efficaces.",
+    "categorie": "PRO",
+    "score": 4,
+    "tags": [
+      "architecture",
+      "serverless",
+      "AWS",
+      "big data",
+      "recherche"
+    ],
+    "analyzedAt": "2026-02-07T23:44:32.246Z",
+    "lu": false
+  }
+]
