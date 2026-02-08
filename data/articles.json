@@ -1410,5 +1410,371 @@
     ],
     "analyzedAt": "2026-02-07T23:44:32.246Z",
     "lu": false
+  },
+  {
+    "id": 1770510307276,
+    "title": "D-Drive: Discord-Powered Cloud Storage With Unlimited Space",
+    "link": "https://dev.to/jasonzlidev/d-drive-discord-powered-cloud-storage-with-unlimited-space-47fk",
+    "source": "dev.to",
+    "date": "Sun, 08 Feb 2026 00:11:04 +0000",
+    "resume": "D-Drive est une plateforme de stockage auto-hébergée qui utilise Discord pour stocker des fichiers de manière sécurisée avec une encryption AES-256. Elle offre une interface familière, des sauvegardes SFTP automatisées, et des fonctionnalités de partage de fichiers.",
+    "categorie": "LES_DEUX",
+    "score": 4,
+    "tags": [
+      "cloud",
+      "Discord",
+      "encryption",
+      "self-hosted",
+      "storage"
+    ],
+    "analyzedAt": "2026-02-08T00:25:07.276Z",
+    "lu": false
+  },
+  {
+    "id": 1770510315475,
+    "title": "The 2026 Distribution Hierarchy: Why Most Founders Start at the Wrong End",
+    "link": "https://dev.to/rakesh1002/the-2026-distribution-hierarchy-why-most-founders-start-at-the-wrong-end-4oc1",
+    "source": "dev.to",
+    "date": "Sat, 07 Feb 2026 23:32:19 +0000",
+    "resume": "L'article analyse les stratégies de distribution pour les fondateurs de startups, en mettant en avant l'importance des communautés et des plateformes comme Reddit, ProductHunt et Twitter (X) pour acquérir les premiers utilisateurs. Il propose une hiérarchie de priorités pour maximiser l'impact et minimiser les coûts d'acquisition client (CAC).",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "strategie",
+      "marketing",
+      "startup",
+      "acquisition"
+    ],
+    "analyzedAt": "2026-02-08T00:25:15.474Z",
+    "lu": false
+  },
+  {
+    "id": 1770510317074,
+    "title": "Best Free Watch Party Apps in 2026: A Developer's Perspective",
+    "link": "https://dev.to/roan_degraaf_9434e8e98ca/best-free-watch-party-apps-in-2026-a-developers-perspective-4f6",
+    "source": "dev.to",
+    "date": "Sat, 07 Feb 2026 23:22:13 +0000",
+    "resume": "L'article analyse les applications de visionnage synchronisé (watch party) sous l'angle technique, en comparant les protocoles WebSocket et WebRTC pour la synchronisation d'état distribué. Il explique pourquoi WebSocket est souvent préféré pour sa fiabilité et sa simplicité malgré une latence légèrement plus élevée.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "architecture",
+      "réseaux",
+      "WebSocket",
+      "WebRTC",
+      "synchronisation"
+    ],
+    "analyzedAt": "2026-02-08T00:25:17.073Z",
+    "lu": false
+  },
+  {
+    "id": 1770510366898,
+    "title": "The Great Unracking: Saying goodbye to the servers at our physical datacenter",
+    "link": "https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/",
+    "source": "StackOverflow Blog",
+    "date": "Wed, 24 Dec 2025 14:03:52 GMT",
+    "resume": "Un article sur la migration d'un datacenter physique vers le cloud, avec les défis et les bénéfices de cette transition.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "cloud",
+      "migration",
+      "infrastructure"
+    ],
+    "analyzedAt": "2026-02-08T00:26:06.897Z",
+    "lu": false
+  },
+  {
+    "id": 1770510373061,
+    "title": "Settle down, nerds. AI is a normal technology",
+    "link": "https://stackoverflow.blog/2025/12/23/settle-down-nerds-ai-is-a-normal-technology/",
+    "source": "StackOverflow Blog",
+    "date": "Tue, 23 Dec 2025 08:40:00 GMT",
+    "resume": "L'article discute de l'évolution de l'IA comme une technologie normale et non magique, en explorant son impact sur la communauté des développeurs et les défis posés par les modèles de langage non déterministes.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "IA",
+      "développement",
+      "communauté"
+    ],
+    "analyzedAt": "2026-02-08T00:26:13.060Z",
+    "lu": false
+  },
+  {
+    "id": 1770510423446,
+    "title": "Fragments Dec 11",
+    "link": "https://martinfowler.com/articles/2025-12-11-frags.html",
+    "source": "Martin Fowler's blog",
+    "date": "2025-12-11T10:17:00-05:00",
+    "resume": "L'article présente plusieurs sujets tech et non-tech. Il inclut une analyse de l'écriture des IA, un guide sur les bonnes pratiques de tests (Test Desiderata) par Emily Bache, et une explication sur les amendes de l'UE contre X (Twitter).",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "IA",
+      "tests",
+      "bonnes pratiques",
+      "tech policy"
+    ],
+    "analyzedAt": "2026-02-08T00:27:03.445Z",
+    "lu": false
+  },
+  {
+    "id": 1770537402698,
+    "title": "How Xerox and Stack Overflow partnered to preserve knowledge and power innovation",
+    "link": "https://stackoverflow.blog/2025/12/23/how-xerox-and-stack-overflow-partnered-to-preserve-knowledge-and-power-innovation/",
+    "source": "StackOverflow Blog",
+    "date": "Tue, 23 Dec 2025 17:00:00 GMT",
+    "resume": "L'article explique comment Xerox et Stack Overflow ont collaboré pour préserver les connaissances et favoriser l'innovation grâce à une culture d'apprentissage continu et de collaboration ouverte.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "collaboration",
+      "connaissances",
+      "innovation"
+    ],
+    "analyzedAt": "2026-02-08T07:56:42.697Z",
+    "lu": false
+  },
+  {
+    "id": 1770537406585,
+    "title": "Design HLD - Recomendation Sytem",
+    "link": "https://dev.to/learnwithvikzzy/design-hld-recomendation-sytem-4c9p",
+    "source": "dev.to",
+    "date": "Sun, 08 Feb 2026 07:33:44 +0000",
+    "resume": "L'article présente les exigences fonctionnelles et non fonctionnelles d'un système de recommandation, couvrant des aspects comme la personnalisation, la génération de candidats, le classement multi-étapes, la tolérance aux pannes, la latence faible et la scalabilité.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "architecture",
+      "recommandation",
+      "scalabilité",
+      "performance"
+    ],
+    "analyzedAt": "2026-02-08T07:56:46.584Z",
+    "lu": false
+  },
+  {
+    "id": 1770537408936,
+    "title": "Service Mesh Architecture (Istio/Linkerd)",
+    "link": "https://dev.to/godofgeeks/service-mesh-architecture-istiolinkerd-26ed",
+    "source": "dev.to",
+    "date": "Sun, 08 Feb 2026 07:31:22 +0000",
+    "resume": "L'article explique les défis des microservices et comment une Service Mesh comme Istio ou Linkerd peut aider à gérer la communication entre les services. Il aborde les problèmes de découverte de services, d'équilibrage de charge, de sécurité et de monitoring.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "microservices",
+      "Service Mesh",
+      "Istio",
+      "Linkerd",
+      "architecture"
+    ],
+    "analyzedAt": "2026-02-08T07:56:48.935Z",
+    "lu": false
+  },
+  {
+    "id": 1770537410842,
+    "title": "Constela: Built-in a11y Checks, Plugin System & CSS Transitions",
+    "link": "https://dev.to/yuu1ch13/constela-built-in-a11y-checks-plugin-system-css-transitions-16dd",
+    "source": "dev.to",
+    "date": "Sun, 08 Feb 2026 07:30:25 +0000",
+    "resume": "Constela, un framework UI basé sur JSON, introduit des vérifications d'accessibilité en temps de compilation, un système de plugins et des transitions CSS. Les vérifications a11y incluent des règles pour les images, boutons, liens, entrées, titres, tabindex et IDs dupliqués.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "accessibilité",
+      "framework",
+      "JSON",
+      "UI"
+    ],
+    "analyzedAt": "2026-02-08T07:56:50.841Z",
+    "lu": false
+  },
+  {
+    "id": 1770537414700,
+    "title": "I Tired of Trying to Read API Responses, So We Built This Free Tool",
+    "link": "https://dev.to/ankur0904/i-tired-of-trying-to-read-api-responses-so-we-built-this-free-tool-3alp",
+    "source": "dev.to",
+    "date": "Sun, 08 Feb 2026 07:16:06 +0000",
+    "resume": "L'article présente un outil en ligne gratuit, bigjson.online, conçu pour faciliter la lecture et la navigation dans les grandes réponses JSON des API. Il offre des fonctionnalités avancées comme une vue arborescente interactive et des filtres de recherche spécifiques.",
+    "categorie": "LES_DEUX",
+    "score": 4,
+    "tags": [
+      "API",
+      "JSON",
+      "Debugging",
+      "Outil en ligne",
+      "Frontend",
+      "Backend"
+    ],
+    "analyzedAt": "2026-02-08T07:56:54.699Z",
+    "lu": false
+  },
+  {
+    "id": 1770537416581,
+    "title": "Linux Learning Journey – Day 19: Text Processing & Data Manipulation with grep, awk & sed 📝🔍",
+    "link": "https://dev.to/avinashwagh/linux-learning-journey-day-19-text-processing-data-manipulation-with-grep-awk-sed-56jk",
+    "source": "dev.to",
+    "date": "Sun, 08 Feb 2026 07:10:50 +0000",
+    "resume": "L'article décrit l'apprentissage de l'auteur sur les outils de traitement de texte Linux (grep, awk, sed) pour l'automatisation, l'analyse de logs et la manipulation de données. Il détaille les fonctionnalités et cas d'usage de chaque outil.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "Linux",
+      "DevOps",
+      "Text Processing",
+      "grep",
+      "awk",
+      "sed"
+    ],
+    "analyzedAt": "2026-02-08T07:56:56.580Z",
+    "lu": false
+  },
+  {
+    "id": 1770537418684,
+    "title": "The Solo Founder's Guide to API Monitoring (Without Enterprise Pricing)",
+    "link": "https://dev.to/shibley/the-solo-founders-guide-to-api-monitoring-without-enterprise-pricing-1edn",
+    "source": "dev.to",
+    "date": "Sun, 08 Feb 2026 07:08:00 +0000",
+    "resume": "L'article aborde l'importance de la surveillance des API pour les fondateurs solo, en soulignant les risques liés aux dépendances externes et les solutions économiques pour éviter les interruptions de service.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "API",
+      "monitoring",
+      "indie hacker",
+      "Stripe",
+      "OpenAI"
+    ],
+    "analyzedAt": "2026-02-08T07:56:58.683Z",
+    "lu": false
+  },
+  {
+    "id": 1770537420767,
+    "title": "Production-Grade Cost Control Strategies for Generative AI Systems",
+    "link": "https://dev.to/shreekansha97/production-grade-cost-control-strategies-for-generative-ai-systems-1b62",
+    "source": "dev.to",
+    "date": "Sun, 08 Feb 2026 07:07:15 +0000",
+    "resume": "Un guide complet sur l'architecture d'applications AI économiquement durables. Il aborde les défis de coûts en production pour les systèmes d'IA générative, avec des stratégies pour maintenir la performance, la précision et l'efficacité économique.",
+    "categorie": "PRO",
+    "score": 4,
+    "tags": [
+      "AI",
+      "coûts",
+      "architecture",
+      "production",
+      "LLM"
+    ],
+    "analyzedAt": "2026-02-08T07:57:00.766Z",
+    "lu": false
+  },
+  {
+    "id": 1770537422867,
+    "title": "A practical walkthrough of building a real-time multilingual experience in a Next.js app",
+    "link": "https://dev.to/crypticsaiyan/a-practical-walkthrough-of-building-a-real-time-multilingual-experience-in-a-nextjs-app-1jid",
+    "source": "dev.to",
+    "date": "Sun, 08 Feb 2026 06:58:23 +0000",
+    "resume": "L'article décrit la création de PolyDub, une application de doublage vidéo multilingue en temps réel. Il détaille les composants techniques (WebSockets, STT, traduction, TTS) et les bonnes pratiques pour une UI multilingue dans une application Next.js.",
+    "categorie": "LES_DEUX",
+    "score": 4,
+    "tags": [
+      "Next.js",
+      "WebSockets",
+      "Multilingue",
+      "Tutoriel"
+    ],
+    "analyzedAt": "2026-02-08T07:57:02.866Z",
+    "lu": false
+  },
+  {
+    "id": 1770537424504,
+    "title": "Getting Started with RBAC in Kubernetes: A Practical Guide",
+    "link": "https://dev.to/bkrajendra/getting-started-with-rbac-authorization-in-kubernetes-a-practical-guide-3ln4",
+    "source": "dev.to",
+    "date": "Sun, 08 Feb 2026 06:56:37 +0000",
+    "resume": "Guide pratique pour mettre en place RBAC dans Kubernetes, expliquant les concepts de base et les bénéfices de la gestion des accès.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "Kubernetes",
+      "RBAC",
+      "sécurité",
+      "DevOps"
+    ],
+    "analyzedAt": "2026-02-08T07:57:04.502Z",
+    "lu": false
+  },
+  {
+    "id": 1770537426725,
+    "title": "Transcripto: Localizing Existing React Apps",
+    "link": "https://dev.to/rashmi-br-dev/transcripto-localizing-existing-react-apps-1a36",
+    "source": "dev.to",
+    "date": "Sun, 08 Feb 2026 06:53:28 +0000",
+    "resume": "Transcripto est un outil CLI pour localiser des applications React existantes. Il scanne le projet, extrait les textes UI, génère des fichiers de traduction et offre une intégration avec lingo.dev pour des traductions de qualité.",
+    "categorie": "LES_DEUX",
+    "score": 4,
+    "tags": [
+      "React",
+      "Localisation",
+      "CLI",
+      "lingo.dev",
+      "Internationalisation"
+    ],
+    "analyzedAt": "2026-02-08T07:57:06.724Z",
+    "lu": false
+  },
+  {
+    "id": 1770537428931,
+    "title": "OpenAI and Anthropic Are Becoming AI Consultants — And That Should Terrify You",
+    "link": "https://dev.to/aristoaistack/openai-and-anthropic-are-becoming-ai-consultants-and-that-should-terrify-you-355n",
+    "source": "dev.to",
+    "date": "Sun, 08 Feb 2026 06:51:56 +0000",
+    "resume": "OpenAI et Anthropic recrutent des centaines d'ingénieurs pour aider les entreprises à déployer leurs modèles d'IA, qui ne fonctionnent pas fiablement sans assistance. L'article souligne les défis pratiques de l'intégration de l'IA en entreprise, illustrés par l'échec d'un projet pour Fnac.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "IA",
+      "consulting",
+      "entreprise",
+      "déploiement"
+    ],
+    "analyzedAt": "2026-02-08T07:57:08.930Z",
+    "lu": false
+  },
+  {
+    "id": 1770537456697,
+    "title": "Processing 630 Million More Pwned Passwords, Courtesy of the FBI",
+    "link": "https://www.troyhunt.com/processing-630-million-more-pwned-passwords-courtesy-of-the-fbi/",
+    "source": "Troy Hunt",
+    "date": "Fri, 12 Dec 2025 21:29:39 GMT",
+    "resume": "L'article traite de l'ajout de 630 millions de mots de passe compromis à la base de données Have I Been Pwned, grâce à une collaboration avec le FBI. Il souligne l'ampleur de la cybercriminalité et l'importance de partager ces informations pour améliorer la sécurité en ligne.",
+    "categorie": "PRO",
+    "score": 3,
+    "tags": [
+      "cybersecurité",
+      "données",
+      "FBI"
+    ],
+    "analyzedAt": "2026-02-08T07:57:36.696Z",
+    "lu": false
+  },
+  {
+    "id": 1770537471060,
+    "title": "Fragments: January 22",
+    "link": "https://martinfowler.com/fragments/2026-01-22.html",
+    "source": "Martin Fowler's blog",
+    "date": "2026-01-22T09:30:00-05:00",
+    "resume": "L'article discute de l'annonce d'une nouvelle plateforme AI/works par Thoughtworks, de l'impact énergétique de l'utilisation de l'IA par Simon Couch, et des réflexions de Chad Fowler sur l'impact des agents de codage sur la rigueur et la discipline en développement logiciel.",
+    "categorie": "LES_DEUX",
+    "score": 3,
+    "tags": [
+      "IA",
+      "développement logiciel",
+      "rigueur",
+      "énergie"
+    ],
+    "analyzedAt": "2026-02-08T07:57:51.059Z",
+    "lu": false
   }
 ]
